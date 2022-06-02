@@ -12,3 +12,4 @@ In order to gain this new functionality, you'll have to modify your [original](h
 
 ## Bonus
 Add a method that allows for deleting a post.  Again, make sure that your information stays in sync.
+```~~~```
